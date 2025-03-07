@@ -1,2 +1,2 @@
-# manualMD
-Repositório de estudo sobre o formato MarkDown
+# Título
+Este repositório se destina a documentar o formato MD de arquivo
