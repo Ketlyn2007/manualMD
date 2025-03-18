@@ -327,7 +327,3 @@ Você pode usar blocos de citação para dividir seu texto em seções visuais, 
 Isso cria uma "caixa" que pode ser útil para destacar seções importantes.
 
 ---
-
-Esses são alguns conceitos adicionais que você pode explorar para criar documentos Markdown mais completos e ricos. Eles vão te ajudar a organizar melhor seu conteúdo e adicionar funcionalidades interessantes, como links internos, imagens interativas, ou até mesmo o uso de emojis para tornar o repositório mais amigável.
-
-Se você precisar de mais ajuda para colocar isso em prática ou criar o repositório no GitHub, só me avisar!
