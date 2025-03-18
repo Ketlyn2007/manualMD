@@ -327,3 +327,42 @@ Você pode usar blocos de citação para dividir seu texto em seções visuais, 
 Isso cria uma "caixa" que pode ser útil para destacar seções importantes.
 
 ---
+1. **Commit 1**:
+   - **Mensagem**: `Adiciona explicação sobre como usar cabeçalhos no Markdown`
+   - **Descrição**: A documentação foi atualizada para explicar como criar e usar cabeçalhos de diferentes níveis utilizando o Markdown, com exemplos práticos.
+
+2. **Commit 2**:
+   - **Mensagem**: `Documenta o uso de ênfases em texto: itálico e negrito`
+   - **Descrição**: Adicionada seção detalhada sobre como utilizar itálico e negrito no Markdown para destacar palavras ou frases.
+
+3. **Commit 3**:
+   - **Mensagem**: `Inclui exemplos de listas ordenadas e não ordenadas no Markdown`
+   - **Descrição**: Foi adicionada uma explicação sobre como criar listas ordenadas e não ordenadas, com exemplos visuais.
+
+4. **Commit 4**:
+   - **Mensagem**: `Adiciona tutorial sobre inserção de links e imagens no Markdown`
+   - **Descrição**: Atualização para explicar como inserir links e imagens no Markdown, incluindo sintaxes e exemplos.
+
+5. **Commit 5**:
+   - **Mensagem**: `Adiciona explicação sobre blocos de código em Markdown`
+   - **Descrição**: Adicionada uma seção detalhada explicando como utilizar blocos de código com sintaxe destacada, com exemplos em Python e JavaScript.
+
+6. **Commit 6**:
+   - **Mensagem**: `Explica como criar tabelas no Markdown`
+   - **Descrição**: Incluída explicação de como criar tabelas simples no Markdown, com exemplos de formatação para diferentes tipos de alinhamento de texto.
+
+7. **Commit 7**:
+   - **Mensagem**: `Adiciona exemplo de uso de citações e citações aninhadas`
+   - **Descrição**: Documentação atualizada para explicar como usar blocos de citações e como aninhar citações dentro de outras citações no Markdown.
+
+8. **Commit 8**:
+   - **Mensagem**: `Adiciona tutorial sobre uso de listas de tarefas no Markdown`
+   - **Descrição**: Inclusão de exemplo de listas de tarefas com caixas de seleção, explicando como elas podem ser usadas para gerenciar tarefas em projetos.
+
+9. **Commit 9**:
+   - **Mensagem**: `Adiciona informações sobre links internos no Markdown`
+   - **Descrição**: Foi adicionado um exemplo sobre como criar links internos (âncoras) para navegar dentro do mesmo documento.
+
+10. **Commit 10**:
+    - **Mensagem**: `Documenta a integração de HTML dentro do Markdown`
+    - **Descrição**: Atualização sobre como incluir código HTML dentro de arquivos Markdown, permitindo uma personalização além das funcionalidades básicas.
